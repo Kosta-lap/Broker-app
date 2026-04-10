@@ -1,0 +1,42 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple, Inc.",
+    "active": false
+  },
+  {
+    "symbol": "SBUX",
+    "name": "Starbucks, Inc.",
+    "active": true
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft, Inc.",
+    "active": true
+  },
+  {
+    "symbol": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "active": true
+  },
+  {
+    "symbol": "QCOM",
+    "name": "QUALCOMM Incorporated",
+    "active": true
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "active": true
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla, Inc.",
+    "active": true
+  },
+  {
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "active": true
+  }
+]

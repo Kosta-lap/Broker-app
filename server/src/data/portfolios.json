@@ -1,0 +1,38 @@
+[
+  {
+    "brokerId": 2,
+    "symbol": "SBUX",
+    "quantity": 20,
+    "avgPrice": 95.25
+  },
+  {
+    "brokerId": 2,
+    "symbol": "CSCO",
+    "quantity": 15,
+    "avgPrice": 50
+  },
+  {
+    "brokerId": 1,
+    "symbol": "AAPL",
+    "quantity": 21,
+    "avgPrice": 198.27714285714288
+  },
+  {
+    "brokerId": 1,
+    "symbol": "QCOM",
+    "quantity": 10,
+    "avgPrice": 191.69
+  },
+  {
+    "brokerId": 1,
+    "symbol": "TSLA",
+    "quantity": 10,
+    "avgPrice": 247.79000000000002
+  },
+  {
+    "brokerId": 1,
+    "symbol": "SBUX",
+    "quantity": 1,
+    "avgPrice": 105.08666666666666
+  }
+]

@@ -1,0 +1,29 @@
+@import "bootstrap/scss/bootstrap";
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.wrapper main {
+    flex: 1;
+}
+
+header {
+    flex: 0 0 auto;
+}
+
+.canvas-block{
+    height: 90%;
+}
+
+.form-text-info{
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+
+    p{
+        margin-bottom: 0px;
+    }
+}

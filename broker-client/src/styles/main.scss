@@ -1,0 +1,60 @@
+@import "bootstrap/scss/bootstrap";
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.wrapper main {
+    flex: 1;
+}
+
+header {
+    flex: 0 0 auto;
+}
+
+.canvas-block {
+    height: 600px;
+}
+
+.form-text-info {
+    margin-top: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+
+    p {
+        margin-bottom: 0;
+    }
+}
+
+.btn-group {
+    width: 100%;
+    gap: 2px;
+}
+
+.table-profit {
+    td.profit-positive {
+        color: #198754;
+    }
+
+    td.profit-negative {
+        color: #dc3545;
+    }
+}
+
+.nav-link {
+    color: #0dcaf0 !important;
+
+    &:hover{
+        color: #68f2ff !important;
+    }
+}
+
+.nav-link.active {
+    color: white !important;
+}
+
+.errorp{
+    font-size: 8px;
+}

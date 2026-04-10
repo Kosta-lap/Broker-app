@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Broker One",
+    "balance": 20000,
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "id": 2,
+    "name": "Broker Two",
+    "balance": 30000,
+    "password": "123",
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "name": "Admin",
+    "balance": 0,
+    "password": "123",
+    "isAdmin": true
+  }
+]
