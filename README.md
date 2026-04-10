@@ -1,6 +1,6 @@
-# Broker Pet App
+# Broker App
 
-Broker Pet App - учебный sandbox для моделирования биржи с двумя интерфейсами:
+Broker App - учебный sandbox (в рамках лабораторных работ по дисциплине "Web-технологии") для моделирования биржи с двумя интерфейсами:
 - админ-панель (React) для управления брокерами, акциями и настройками биржи;
 - клиент брокера (Vue) для логина, просмотра портфеля и выполнения сделок.
 
@@ -17,7 +17,7 @@ Broker Pet App - учебный sandbox для моделирования бир
 
 ## Технологии
 
-- Backend: `NestJS`, `TypeScript`, `Socket.IO`, `Passport (local)`, `class-validator`.
+- Backend: `NestJS`, `TypeScript`, `Socket.IO`.
 - Admin client: `React`, `TypeScript`, `Redux Toolkit`, `Vite`, `Chart.js`.
 - Broker client: `Vue 3`, `TypeScript`, `Vue Router`, `Vite`, `vue-chartjs`.
 - Инфраструктура: `Docker`, `Docker Compose`.
